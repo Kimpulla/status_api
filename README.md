@@ -12,7 +12,7 @@ Follow these instructions to get the API up and running on your local machine.
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/Kimpullae/status_api.git
+    git clone https://github.com/Kimpulla/status_api.git
     cd status_api
     ```
 
